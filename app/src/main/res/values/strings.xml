@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SCAN_CID_MOONPO_CLIENT</string>
+    <string name="form_id">Id:</string>
+    <string name="form_no">No:</string>
+    <string name="form_name">Name:</string>
+    <string name="form_birthday">Birth Day:</string>
+    <string name="form_gender">Gender:</string>
+    <string name="form_issuedate">Issue Date:</string>
+    <string name="form_address">Address:</string>
+    <string name="form_photo">Take Photo</string>
+    <string name="form_btnsave">Save</string>
+    <string name="form_btnreset">Reset</string>
+</resources>
